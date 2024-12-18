@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:889ae0,100:c2e59c&height=120&section=footer&text=Welcome%20to%20Soozi%20Github%F0%9F%A7%99&animation=fadeIn&fontColor=f7f7ff&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:889ae0,100:c2e59c&height=120&section=footer&text=Welcome%20to%20Soozi%20Github%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&animation=fadeIn&fontColor=f7f7ff&fontSize=40)
 
 <br/>
 
